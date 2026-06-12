@@ -143,3 +143,5 @@ resource "azurerm_linux_virtual_machine" "vm" {
   }
 }
 # Trigger CI/CD pipeline
+
+# Fix CI/CD authentication
