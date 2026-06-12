@@ -142,3 +142,4 @@ resource "azurerm_linux_virtual_machine" "vm" {
     ManagedBy   = "Terraform"
   }
 }
+# Trigger CI/CD pipeline
